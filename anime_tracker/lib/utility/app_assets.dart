@@ -1,6 +1,6 @@
 class AppAssets {
   /// on Boarding image
-  static String onBoardingBG = "assets/onboarding.jpg";
+  static String onBoardingBG = "assets/mainpic.png";
 
   /// bottom menu icon
   static String menuIcon = "assets/menu.png";

@@ -48,7 +48,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
                         size: 80,
                       ),
                       Text(
-                        "vásárolj kényelmesen",
+                        "Track your episodes",
                         textAlign: TextAlign.center,
                         style: TextStyle(
                             fontSize: 25, fontWeight: FontWeight.bold),
@@ -69,7 +69,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
                             );
                           },
                           child: Text(
-                            "Shopping time!!",
+                            "I'm ready!!",
                             style: TextStyle(
                               fontSize: 18,
                               fontWeight: FontWeight.bold,
