@@ -1,6 +1,7 @@
 # anime_tracker
 
 A new Flutter project.
+where I learn and have fun
 
 ## Getting Started
 
