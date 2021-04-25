@@ -60,6 +60,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
                         height: 50,
                         width: 150,
                         // ignore: deprecated_member_use
+                        // a route vissz el a kivánt oldara
                         child: RaisedButton(
                           onPressed: () {
                             Navigator.of(context).push(
