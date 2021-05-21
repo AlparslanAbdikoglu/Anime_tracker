@@ -15,7 +15,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
             size: 40,
           ),
           Text(
-            "Cashier Basket -Smart Shopping",
+            "Cashier Basket",
             style: TextStyle(fontSize: 25, fontWeight: FontWeight.bold),
           ),
 
