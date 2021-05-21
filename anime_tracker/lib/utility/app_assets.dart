@@ -1,6 +1,11 @@
 class AppAssets {
   /// on Boarding image
-  static String onBoardingBG = "assets/mainpic.png";
+  static String onBoardingBG = "assets/logo.jpg";
+
+  /// fake profile image
+  static String tesco = "assets/tesco.jpg";
+  static String aldi = "assets/aldi.png";
+  static String logo = "assets/logo.jpg";
 
   /// bottom menu icon
   static String menuIcon = "assets/menu.png";

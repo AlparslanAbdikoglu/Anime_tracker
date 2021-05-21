@@ -48,7 +48,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
                         size: 80,
                       ),
                       Text(
-                        "Track your episodes",
+                        "Cashier Basket",
                         textAlign: TextAlign.center,
                         style: TextStyle(
                             fontSize: 25, fontWeight: FontWeight.bold),
@@ -61,6 +61,7 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
                         width: 150,
                         // ignore: deprecated_member_use
                         // a route vissz el a kivánt oldara
+                        // ignore: deprecated_member_use
                         child: RaisedButton(
                           onPressed: () {
                             Navigator.of(context).push(
@@ -70,9 +71,9 @@ class _OnBoardingPageState extends State<OnBoardingPage> {
                             );
                           },
                           child: Text(
-                            "I'm ready!!",
+                            "Vágjunk bele!",
                             style: TextStyle(
-                              fontSize: 18,
+                              fontSize: 20,
                               fontWeight: FontWeight.bold,
                             ),
                           ),
